@@ -8,6 +8,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import com.kairos.planning.domain.Citizen;
+import com.kairos.planning.domain.Employee;
 import com.kairos.planning.domain.Location;
 import com.kairos.planning.domain.Task;
 import com.kairos.planning.domain.Vehicle;
@@ -65,10 +66,13 @@ public class TaskPlanningSolver {
 	}
 	public String toDisplayString(TaskPlanningSolution solution) {
         StringBuilder displayString = new StringBuilder();
+        displayString.append("\n");
         for (Task task : solution.getTaskList()) {
         	Vehicle  vehicle= task.getVehicle();
+        	Employee  employee= task.getEmployee();
             displayString.append("  ").append(task).append(" -> ")
-                    .append(vehicle == null ? null : vehicle).append("\n");
+                    .append(vehicle == null ? null : vehicle).append(" -> ")
+                    .append(employee == null ? null: employee).append("\n");
         }
         return displayString.toString();
     }

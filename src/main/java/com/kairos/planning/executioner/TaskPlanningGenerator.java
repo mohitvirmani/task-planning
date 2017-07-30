@@ -67,7 +67,7 @@ public class TaskPlanningGenerator {
 			Task task= new Task();
 			task.setId(100000l+i);
 			//task.setPriority(new Long(i));
-			task.setDuration(10L*i);
+			//task.setDuration(10L*i);
 			task.setCitizen(citizens.get(i));
 			task.setLocation(locations.get(i));
 			taskList.add(task);

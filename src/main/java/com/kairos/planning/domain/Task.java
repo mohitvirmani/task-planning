@@ -1,5 +1,8 @@
 package com.kairos.planning.domain;
 
+import java.util.Comparator;
+
+import org.apache.commons.lang3.builder.CompareToBuilder;
 import org.optaplanner.core.api.domain.entity.PlanningEntity;
 import org.optaplanner.core.api.domain.variable.AnchorShadowVariable;
 import org.optaplanner.core.api.domain.variable.PlanningVariable;
@@ -7,8 +10,8 @@ import org.optaplanner.core.api.domain.variable.PlanningVariableGraphType;
 
 import com.thoughtworks.xstream.annotations.XStreamAlias;
 
-@PlanningEntity
 @XStreamAlias("Task")
+@PlanningEntity(difficultyComparatorClass = TaskDifficultyComparator.class)
 public class Task  extends TaskOrVehicle{
 
 	private TaskType taskType;
@@ -94,10 +97,7 @@ public class Task  extends TaskOrVehicle{
     }
     private Long duration;
     public Long getDuration() {
-		return duration;
-	}
-	public void setDuration(Long duration) {
-		this.duration = duration;
+		return taskType.getBaseDuration();
 	}
 	private Location location;
 	
@@ -120,6 +120,19 @@ public class Task  extends TaskOrVehicle{
 		return previousTaskOrVehicle.getLocation().getDistanceFrom(this.getLocation());
 	}
 	public String toString(){
-		return id+"-"+priority+"-"+duration;
+		return id+"-"+priority+"-"+getDuration()+"-"+taskType.getRequiredSkillList();
 	}
+	public int getMissingSkillCount() {
+        if (employee == null) {
+            return 0;
+        }
+        int count = 0;
+        for (Skill skill : taskType.getRequiredSkillList()) {
+            if (!employee.getSkillSet().contains(skill)) {
+                count++;
+            }
+        }
+        return count;
+    }
 }
+

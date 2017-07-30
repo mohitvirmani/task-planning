@@ -27,19 +27,19 @@
       <id>0</id>
       <name>Gurgaon</name>
 	  <latitude>11.21300</latitude>
-	  <longitude>11.43344</longitude>
+	  <longitude>21.43344</longitude>
     </Location>
     <Location id="109">
       <id>1</id>
       <name>Noida</name>
-	  <latitude>11.21300</latitude>
-	  <longitude>11.43344</longitude>
+	  <latitude>31.21300</latitude>
+	  <longitude>41.43344</longitude>
     </Location>
     <Location id="110">
       <id>2</id>
       <name>Delhi</name>
-	  <latitude>11.21300</latitude>
-	  <longitude>11.43344</longitude>
+	  <latitude>41.21300</latitude>
+	  <longitude>51.43344</longitude>
     </Location>
   </locationList>
   <taskTypeList id="8">
