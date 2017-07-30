@@ -23,7 +23,12 @@ public class TaskPlanningSolver {
 		solver = solverFactory.buildSolver();
 	}
 	public void runSolver(){
+		try{
 		printSolvedSolution(getSolution());
+		}catch(Exception e){
+			e.printStackTrace();
+			throw e;
+		}
 	}
 	private void printSolvedSolution(TaskPlanningSolution solution) {
 		log.info("-------Printing Solution:-------");
@@ -39,8 +44,8 @@ public class TaskPlanningSolver {
 		TaskPlanningSolution unsolvedSolution=getUnsolvedSolution();
 		printUnsolvedSolution(unsolvedSolution);
 		TaskPlanningSolution solution = solver.solve(unsolvedSolution);
-		return solver.getBestSolution();
-		//return solution;
+		//return solver.getBestSolution();
+		return solution;
 	}
 
 	private void printUnsolvedSolution(TaskPlanningSolution unsolvedSolution) {

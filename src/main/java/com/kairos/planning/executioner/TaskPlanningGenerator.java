@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.kairos.planning.domain.Affinity;
+import com.kairos.planning.domain.AvailabilityRequest;
 import com.kairos.planning.domain.Citizen;
 import com.kairos.planning.domain.Employee;
 import com.kairos.planning.domain.Location;
@@ -34,6 +35,7 @@ public class TaskPlanningGenerator {
 		xstream.processAnnotations(TaskPlanningSolution.class);
 		xstream.processAnnotations(Affinity.class);
 		xstream.processAnnotations(Location.class);
+		xstream.processAnnotations(AvailabilityRequest.class);
 		xstream.setMode(XStream.ID_REFERENCES);
 		TaskPlanningSolution unresolvedSolution ;
 		try{

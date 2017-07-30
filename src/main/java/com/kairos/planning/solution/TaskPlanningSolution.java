@@ -10,6 +10,7 @@ import org.optaplanner.core.api.domain.valuerange.ValueRangeProvider;
 import org.optaplanner.core.api.score.buildin.hardsoft.HardSoftScore;
 import org.optaplanner.persistence.xstream.api.score.buildin.hardsoft.HardSoftScoreXStreamConverter;
 
+import com.kairos.planning.domain.AvailabilityRequest;
 import com.kairos.planning.domain.Citizen;
 import com.kairos.planning.domain.Employee;
 import com.kairos.planning.domain.Location;
@@ -47,6 +48,16 @@ public class TaskPlanningSolution {
 	private List<Employee> employeeList;
 	@ProblemFactCollectionProperty
 	private List<Skill> skillList;
+	@ProblemFactCollectionProperty
+	private List<AvailabilityRequest> availabilityList;
+	public List<AvailabilityRequest> getAvailabilityList() {
+		return availabilityList;
+	}
+
+	public void setAvailabilityList(List<AvailabilityRequest> availabilityList) {
+		this.availabilityList = availabilityList;
+	}
+
 	@ProblemFactCollectionProperty
 	private List<Location> locationList;
 	public List<Vehicle> getVehicleList() {

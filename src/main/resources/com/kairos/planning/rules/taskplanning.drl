@@ -26,16 +26,18 @@ end
 
 rule "employeeWorkingHours"
     when
-    Task ($employee : employee)
+    Task (employee!=null,$employee : employee,$empId:employeeId)
+    //$availableMinutes:$employee.AvailableMinutes;
+    Employee (id ==$empId, $availableMinutes:availableMinutes)
     accumulate(
             $task : Task(
                 employee == $employee,
                 $duration : duration);
-            $totalEmployeeTime : count($duration);
-            $totalEmployeeTime > 0 
+            $totalWorkTime : count($duration);
+            $totalWorkTime > $availableMinutes
         )
     then
-        scoreHolder.addSoftConstraintMatch(kcontext, (int)- $totalEmployeeTime);
+        scoreHolder.addHardConstraintMatch(kcontext, (int)- ($totalWorkTime - $availableMinutes));
 end
 
 rule "vehicleWorkingHours"

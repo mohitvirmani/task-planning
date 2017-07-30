@@ -134,5 +134,8 @@ public class Task  extends TaskOrVehicle{
         }
         return count;
     }
+	public Long getEmployeeId(){
+		return employee.getId();
+	}
 }
 

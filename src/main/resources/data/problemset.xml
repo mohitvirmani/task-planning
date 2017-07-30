@@ -22,6 +22,33 @@
       <name>Creative Thinking</name>
     </Skill>
   </skillList>
+  <availabilityList id="114">
+    <Availability id="115">
+      <id>0</id>
+      <startTimeString>08/02/2017 11:00:00</startTimeString>
+	  <endTimeString>08/02/2017 16:00:00</endTimeString>
+    </Availability>
+	<Availability id="116">
+      <id>1</id>
+      <startTimeString>08/03/2017 11:00:00</startTimeString>
+	  <endTimeString>08/03/2017 16:00:00</endTimeString>
+    </Availability>
+	<Availability id="117">
+      <id>2</id>
+      <startTimeString>08/04/2017 11:00:00</startTimeString>
+	  <endTimeString>08/04/2017 16:00:00</endTimeString>
+    </Availability>
+	<Availability id="118">
+      <id>3</id>
+      <startTimeString>08/05/2017 11:00:00</startTimeString>
+	  <endTimeString>08/05/2017 16:00:00</endTimeString>
+    </Availability>
+	<Availability id="119">
+      <id>4</id>
+      <startTimeString>08/06/2017 11:00:00</startTimeString>
+	  <endTimeString>08/06/2017 16:00:00</endTimeString>
+    </Availability>
+	</availabilityList>
   <locationList id="107">
     <Location id="108">
       <id>0</id>
@@ -186,6 +213,10 @@
         <Skill reference="4"/>
         <Skill reference="5"/>
       </skillSet>
+	  <availabilityList id="300">
+        <Availability reference="115"/>
+        <Availability reference="116"/>
+      </availabilityList>
       <affinityMap class="linked-hash-map" id="43">
         <entry>
           <Citizen reference="30"/>
@@ -237,6 +268,10 @@
         <Skill reference="7"/>
         <Skill reference="3"/>
       </skillSet>
+	  <availabilityList id="301">
+        <Availability reference="115"/>
+        <Availability reference="116"/>
+      </availabilityList>
       <affinityMap class="linked-hash-map" id="46">
         <entry>
           <Citizen reference="30"/>
@@ -287,6 +322,10 @@
         <Skill reference="4"/>
         <Skill reference="5"/>
       </skillSet>
+	  <availabilityList id="302">
+        <Availability reference="116"/>
+        <Availability reference="117"/>
+      </availabilityList>
       <affinityMap class="linked-hash-map" id="49">
         <entry>
           <Citizen reference="30"/>
@@ -337,6 +376,10 @@
         <Skill reference="6"/>
         <Skill reference="7"/>
       </skillSet>
+	  <availabilityList id="303">
+        <Availability reference="116"/>
+        <Availability reference="117"/>
+      </availabilityList>
       <affinityMap class="linked-hash-map" id="52">
         <entry>
           <Citizen reference="30"/>
@@ -387,6 +430,10 @@
         <Skill reference="3"/>
         <Skill reference="4"/>
       </skillSet>
+	  <availabilityList id="304">
+        <Availability reference="117"/>
+        <Availability reference="118"/>
+      </availabilityList>
       <affinityMap class="linked-hash-map" id="55">
         <entry>
           <Citizen reference="30"/>
@@ -947,4 +994,6 @@
 	  <location reference="108"/>
     </Vehicle>
   </vehicleList>
+  
+  
 </TaskPlanningSolution>

@@ -1,10 +1,9 @@
 package com.kairos.planning.domain;
 
 import java.util.LinkedHashMap;
+import java.util.List;
 import java.util.Map;
 import java.util.Set;
-
-import org.optaplanner.core.api.domain.entity.PlanningEntity;
 
 import com.thoughtworks.xstream.annotations.XStreamAlias;
 
@@ -21,7 +20,14 @@ public class Employee {
 	private Long id;
 	private String name;
 	private Set<Skill> skillSet;
-	private Map<Citizen, Affinity> affinityMap= new LinkedHashMap<Citizen, Affinity>();;
+	private Map<Citizen, Affinity> affinityMap= new LinkedHashMap<Citizen, Affinity>();
+	private List<AvailabilityRequest> availabilityList;
+	public List<AvailabilityRequest> getAvailabilityList() {
+		return availabilityList;
+	}
+	public void setAvailabilityList(List<AvailabilityRequest> availabilityList) {
+		this.availabilityList = availabilityList;
+	}
 	public Map<Citizen, Affinity> getAffinityMap() {
 		return affinityMap;
 	}
@@ -46,9 +52,16 @@ public class Employee {
 	public void setName(String name) {
 		this.name = name;
 	}
+	public long getAvailableMinutes(){
+		long mins=0;
+		for(AvailabilityRequest availabilityRequest:availabilityList){
+			mins+=availabilityRequest.getMinutes();
+		}
+		return mins;
+	}
 	
 	public String toString(){
-		return id+"-"+name+"-"+skillSet;
+		return id+"-"+name+"-"+skillSet+"-"+getAvailableMinutes();
 	}
 	public Affinity getAffinity(Citizen citizen) {
         Affinity affinity = affinityMap.get(citizen);
