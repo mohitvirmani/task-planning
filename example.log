@@ -1,0 +1,697 @@
+[TaskPlanning] 2017-07-30 13:07:49,241 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,243 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,244 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,244 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,245 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,245 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,246 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,247 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,247 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,248 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,249 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,249 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,250 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (84), time spent (2250), score (-3hard/-3977soft),     best score (-3hard/-3592soft), accepted/selected move count (1/4), picked move (100004-4-40-200000-Oodles1 {200000-Oodles1} <-> 100000-0-0-200001-Oodles1 {200001-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,251 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,253 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,254 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,254 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (85), time spent (2254), score (-3hard/-3602soft),     best score (-3hard/-3592soft), accepted/selected move count (1/1), picked move (100004-4-40-200001-Oodles1 {200001-Oodles1} <-> 100002-2-20-200000-Oodles1 {100000-0-0-200000-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,258 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,258 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,259 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,259 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,260 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,260 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,261 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,261 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,262 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,262 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,263 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,263 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,264 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,265 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,265 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,266 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,266 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,266 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,267 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,267 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,268 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,269 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,270 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,270 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,270 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (86), time spent (2270), score (-3hard/-3977soft),     best score (-3hard/-3592soft), accepted/selected move count (1/8), picked move (100004-4-40-200000-Oodles1 {100000-0-0-200000-Oodles1} <-> 100002-2-20-200001-Oodles1 {200001-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,271 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,271 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,272 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,272 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,273 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,273 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,274 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (87), time spent (2274), score (-3hard/-3977soft),     best score (-3hard/-3592soft), accepted/selected move count (1/2), picked move (100004-4-40-200001-Oodles1 {200001-Oodles1} <-> 100003-3-30-200002-Oodles1 {200002-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,274 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,275 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,275 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,276 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,276 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,276 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,277 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,277 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,278 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,278 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,279 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,279 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,280 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,281 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,281 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,282 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,282 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,283 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,283 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,284 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,284 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,284 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (88), time spent (2284), score (-3hard/-3862soft),     best score (-3hard/-3592soft), accepted/selected move count (1/7), picked move (100001-1-10-200002-Oodles1 {100004-4-40-200002-Oodles1} <-> 100003-3-30-200001-Oodles1 {200001-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,285 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,286 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,287 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,287 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (89), time spent (2287), score (-3hard/-3592soft),     best score (-3hard/-3592soft), accepted/selected move count (1/1), picked move (100001-1-10-200001-Oodles1 {200001-Oodles1} <-> 100002-2-20-200000-Oodles1 {100000-0-0-200000-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,288 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,288 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,289 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,289 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,290 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,290 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,290 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,291 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,291 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,292 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,292 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,293 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,293 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (90), time spent (2293), score (-3hard/-3592soft),     best score (-3hard/-3592soft), accepted/selected move count (1/4), picked move (100004-4-40-200002-Oodles1 {200002-Oodles1 -> 100003-3-30-200002-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,294 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,294 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,295 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,295 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,296 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,296 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,297 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,298 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,298 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,299 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,299 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,300 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,300 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,301 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,301 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,301 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,302 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,302 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,303 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (91), time spent (2302), score (-3hard/-3602soft),     best score (-3hard/-3592soft), accepted/selected move count (1/6), picked move (100001-1-10-200000-Oodles1 {100000-0-0-200000-Oodles1} <-> 100004-4-40-200002-Oodles1 {100003-3-30-200002-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,303 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,303 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,304 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,304 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,305 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,305 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,306 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,306 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,307 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,307 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,308 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,310 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,310 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (92), time spent (2310), score (-3hard/-3602soft),     best score (-3hard/-3592soft), accepted/selected move count (1/4), picked move (100003-3-30-200002-Oodles1 {200002-Oodles1} <-> 100004-4-40-200000-Oodles1 {100000-0-0-200000-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,311 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,312 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,312 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,312 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,313 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,313 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,314 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (93), time spent (2314), score (-3hard/-3592soft),     best score (-3hard/-3592soft), accepted/selected move count (1/2), picked move (100000-0-0-200000-Oodles1 {200000-Oodles1} <-> 100004-4-40-200002-Oodles1 {200002-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,316 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,317 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,317 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,317 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (94), time spent (2317), score (-3hard/-3829soft),     best score (-3hard/-3592soft), accepted/selected move count (1/1), picked move (100000-0-0-200002-Oodles1 {200002-Oodles1} <-> 100002-2-20-200001-Oodles1 {200001-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,318 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,318 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,318 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,319 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,320 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,320 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,320 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,321 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,321 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,322 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (95), time spent (2322), score (-3hard/-3592soft),     best score (-3hard/-3592soft), accepted/selected move count (1/3), picked move (100000-0-0-200001-Oodles1 {200001-Oodles1} <-> 100002-2-20-200002-Oodles1 {200002-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,322 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,323 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,323 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,323 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,324 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,324 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,324 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,325 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,325 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,325 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (96), time spent (2325), score (-3hard/-4002soft),     best score (-3hard/-3592soft), accepted/selected move count (1/3), picked move (100003-3-30-200000-Oodles1 {100004-4-40-200000-Oodles1} <-> 100000-0-0-200002-Oodles1 {200002-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,326 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,326 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,326 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,327 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,327 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,328 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,328 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,329 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,329 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,329 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (97), time spent (2329), score (-3hard/-4036soft),     best score (-3hard/-3592soft), accepted/selected move count (1/3), picked move (100000-0-0-200000-Oodles1 {100004-4-40-200000-Oodles1} <-> 100002-2-20-200001-Oodles1 {200001-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,330 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,330 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,331 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,332 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,332 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,333 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,333 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,334 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,334 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,334 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,335 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,335 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,336 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,337 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,337 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,338 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,339 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,339 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,339 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,340 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,340 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,341 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,342 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,342 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,342 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,343 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,343 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,344 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,344 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,345 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,345 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,345 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,346 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,346 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,347 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,347 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,347 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,353 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,355 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,356 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,358 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,360 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,361 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,361 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,362 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,364 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (98), time spent (2364), score (-3hard/-3977soft),     best score (-3hard/-3592soft), accepted/selected move count (1/15), picked move (100000-0-0-200001-Oodles1 {200001-Oodles1} <-> 100004-4-40-200000-Oodles1 {200000-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,364 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,366 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,367 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,367 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,368 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,370 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,377 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,388 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,389 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,389 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,390 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,390 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,391 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (99), time spent (2391), score (-3hard/-4036soft),     best score (-3hard/-3592soft), accepted/selected move count (1/4), picked move (100000-0-0-200000-Oodles1 {200000-Oodles1} <-> 100004-4-40-200001-Oodles1 {200001-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,391 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,392 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,392 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,393 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,393 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,394 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,394 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,395 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,395 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,396 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,397 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,398 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,400 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (100), time spent (2400), score (-3hard/-4036soft),     best score (-3hard/-3592soft), accepted/selected move count (1/4), picked move (100004-4-40-200000-Oodles1 {200000-Oodles1} <-> 100003-3-30-200002-Oodles1 {200002-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,403 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,405 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,405 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,407 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (101), time spent (2407), score (-3hard/-4036soft),     best score (-3hard/-3592soft), accepted/selected move count (1/1), picked move (100002-2-20-200000-Oodles1 {100003-3-30-200000-Oodles1} <-> 100001-1-10-200002-Oodles1 {100004-4-40-200002-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,409 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,410 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,412 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,413 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,420 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,422 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,424 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (102), time spent (2424), score (-3hard/-3829soft),     best score (-3hard/-3592soft), accepted/selected move count (1/2), picked move (100002-2-20-200002-Oodles1 {100004-4-40-200002-Oodles1} <-> 100003-3-30-200000-Oodles1 {200000-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,426 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,427 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,428 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,428 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,429 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,429 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,429 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,430 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,430 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,431 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,431 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,431 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,433 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,433 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,434 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,434 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,435 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,435 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,436 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,437 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,437 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,438 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,438 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,439 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,439 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,440 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,440 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,441 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,441 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,442 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,442 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,443 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,443 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,444 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,444 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,444 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,445 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,445 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,446 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,446 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,447 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,447 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,447 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,448 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,448 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,449 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (103), time spent (2449), score (-3hard/-4036soft),     best score (-3hard/-3592soft), accepted/selected move count (1/15), picked move (100003-3-30-200002-Oodles1 {100004-4-40-200002-Oodles1} <-> 100002-2-20-200000-Oodles1 {200000-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,450 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,451 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,451 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,453 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (104), time spent (2453), score (-3hard/-3977soft),     best score (-3hard/-3592soft), accepted/selected move count (1/1), picked move (100002-2-20-200002-Oodles1 {100004-4-40-200002-Oodles1} <-> 100005-5-50-200001-Oodles1 {100000-0-0-200001-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,453 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,454 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,454 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,455 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,455 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,456 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,456 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,457 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,457 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,458 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,458 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,459 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,459 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,460 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,460 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,460 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,461 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,461 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,461 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,462 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,462 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,462 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,463 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,463 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,463 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (105), time spent (2463), score (-3hard/-3602soft),     best score (-3hard/-3592soft), accepted/selected move count (1/8), picked move (100004-4-40-200002-Oodles1 {200002-Oodles1} <-> 100002-2-20-200001-Oodles1 {100000-0-0-200001-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,464 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,465 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,465 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,465 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,466 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,467 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,467 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,468 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,468 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,469 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (106), time spent (2469), score (-3hard/-4002soft),     best score (-3hard/-3592soft), accepted/selected move count (1/3), picked move (100004-4-40-200001-Oodles1 {100000-0-0-200001-Oodles1} <-> 100000-0-0-200001-Oodles1 {200001-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,469 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,470 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,470 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,471 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,471 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,471 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,472 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,472 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,473 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,473 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,473 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,474 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,474 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (107), time spent (2474), score (-3hard/-3592soft),     best score (-3hard/-3592soft), accepted/selected move count (1/4), picked move (100003-3-30-200000-Oodles1 {200000-Oodles1} <-> 100000-0-0-200001-Oodles1 {100004-4-40-200001-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,474 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,475 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,475 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,476 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (108), time spent (2476), score (-3hard/-3592soft),     best score (-3hard/-3592soft), accepted/selected move count (1/1), picked move (100004-4-40-200001-Oodles1 {200001-Oodles1} <-> 100003-3-30-200001-Oodles1 {100004-4-40-200001-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,476 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,476 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,477 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,477 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (109), time spent (2477), score (-3hard/-3602soft),     best score (-3hard/-3592soft), accepted/selected move count (1/1), picked move (100004-4-40-200001-Oodles1 {100003-3-30-200001-Oodles1} <-> 100001-1-10-200000-Oodles1 {100000-0-0-200000-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,477 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,478 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,478 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,478 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,479 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,479 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,479 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,480 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,480 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,481 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (110), time spent (2481), score (-3hard/-4002soft),     best score (-3hard/-3592soft), accepted/selected move count (1/3), picked move (100000-0-0-200000-Oodles1 {200000-Oodles1 -> 100004-4-40-200000-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,481 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,482 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,482 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,482 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,483 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,484 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,484 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (111), time spent (2484), score (-3hard/-4002soft),     best score (-3hard/-3592soft), accepted/selected move count (1/2), picked move (100003-3-30-200001-Oodles1 {200001-Oodles1} <-> 100004-4-40-200000-Oodles1 {200000-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,485 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,485 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,485 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,486 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,486 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,487 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,487 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,487 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,488 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,488 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,489 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,489 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,489 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,490 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,490 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,490 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (112), time spent (2490), score (-3hard/-4002soft),     best score (-3hard/-3592soft), accepted/selected move count (1/5), picked move (100004-4-40-200001-Oodles1 {200001-Oodles1} <-> 100003-3-30-200000-Oodles1 {200000-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,491 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,492 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,492 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,492 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,493 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,493 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,494 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,494 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,495 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,495 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,513 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,513 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,514 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,514 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,514 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,515 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (113), time spent (2515), score (-3hard/-3602soft),     best score (-3hard/-3592soft), accepted/selected move count (1/5), picked move (100004-4-40-200000-Oodles1 {200000-Oodles1} <-> 100000-0-0-200000-Oodles1 {100004-4-40-200000-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,515 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,516 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,516 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,517 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,517 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,517 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,518 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,518 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,519 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,520 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,520 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,521 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,521 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,522 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,522 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,522 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,523 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,523 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,524 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,524 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,525 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,525 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (114), time spent (2525), score (-3hard/-4002soft),     best score (-3hard/-3592soft), accepted/selected move count (1/7), picked move (100000-0-0-200000-Oodles1 {200000-Oodles1} <-> 100004-4-40-200000-Oodles1 {100000-0-0-200000-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,525 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,526 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,526 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,527 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (115), time spent (2527), score (-3hard/-4002soft),     best score (-3hard/-3592soft), accepted/selected move count (1/1), picked move (100000-0-0-200000-Oodles1 {100004-4-40-200000-Oodles1} <-> 100001-1-10-200001-Oodles1 {100003-3-30-200001-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,527 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,527 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,528 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,528 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,529 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,529 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,530 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,530 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,532 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,533 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,535 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,535 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,536 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,536 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,537 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,541 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,542 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,542 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,543 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,543 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,543 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,543 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,544 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,544 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,544 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (116), time spent (2544), score (-3hard/-3602soft),     best score (-3hard/-3592soft), accepted/selected move count (1/8), picked move (100000-0-0-200001-Oodles1 {100003-3-30-200001-Oodles1} <-> 100003-3-30-200001-Oodles1 {200001-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,545 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,545 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,545 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,546 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,546 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,547 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,547 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,548 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,548 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,548 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,549 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,550 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,551 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (117), time spent (2550), score (-3hard/-3602soft),     best score (-3hard/-3592soft), accepted/selected move count (1/4), picked move (100003-3-30-200001-Oodles1 {100000-0-0-200001-Oodles1} <-> 100004-4-40-200000-Oodles1 {200000-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,551 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,552 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,552 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,553 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,553 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,554 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,554 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (118), time spent (2554), score (-3hard/-3602soft),     best score (-3hard/-3592soft), accepted/selected move count (1/2), picked move (100003-3-30-200000-Oodles1 {200000-Oodles1} <-> 100004-4-40-200001-Oodles1 {100000-0-0-200001-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,555 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,555 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,555 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,556 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,556 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,556 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,557 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,557 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,558 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,558 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,559 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,559 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,559 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,560 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,561 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,561 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,562 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,562 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,562 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,563 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,563 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,564 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,564 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,564 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,565 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,565 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,566 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,566 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,567 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,568 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,569 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (119), time spent (2569), score (-3hard/-3592soft),     best score (-3hard/-3592soft), accepted/selected move count (1/10), picked move (100003-3-30-200001-Oodles1 {100000-0-0-200001-Oodles1} <-> 100001-1-10-200000-Oodles1 {100004-4-40-200000-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,570 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,571 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,571 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,571 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,572 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,573 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,575 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,575 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,576 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,577 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (120), time spent (2577), score (-3hard/-3602soft),     best score (-3hard/-3592soft), accepted/selected move count (1/3), picked move (100001-1-10-200001-Oodles1 {100000-0-0-200001-Oodles1} <-> 100003-3-30-200000-Oodles1 {100004-4-40-200000-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,578 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,579 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,579 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,580 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,581 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,581 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,581 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,582 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,582 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,582 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,583 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,583 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,584 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,584 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,586 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,588 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,589 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,589 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,589 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,590 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,590 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,591 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,591 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,592 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,592 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,592 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,593 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,593 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,594 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,594 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,594 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,595 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,595 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,595 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,596 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,596 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,596 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,597 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,597 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,598 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,598 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,598 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,599 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,599 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,599 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,600 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,600 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,601 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,602 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,603 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,604 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,604 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,604 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,605 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,605 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,606 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,606 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,606 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,607 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,607 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,608 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,608 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,608 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,609 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,609 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,610 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,610 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,611 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,611 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,611 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (121), time spent (2611), score (-3hard/-3602soft),     best score (-3hard/-3592soft), accepted/selected move count (1/23), picked move (100003-3-30-200001-Oodles1 {100000-0-0-200001-Oodles1} <-> 100004-4-40-200000-Oodles1 {200000-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,612 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,612 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,613 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,613 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,614 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,614 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,614 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,615 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,615 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,615 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,616 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,616 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,616 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,617 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,617 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,617 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,618 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,619 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,619 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,620 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,620 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,621 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (122), time spent (2621), score (-3hard/-3592soft),     best score (-3hard/-3592soft), accepted/selected move count (1/7), picked move (100004-4-40-200001-Oodles1 {100000-0-0-200001-Oodles1} <-> 100001-1-10-200000-Oodles1 {100003-3-30-200000-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,621 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,621 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,622 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,622 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (123), time spent (2622), score (-3hard/-4002soft),     best score (-3hard/-3592soft), accepted/selected move count (1/1), picked move (100000-0-0-200001-Oodles1 {200001-Oodles1} <-> 100004-4-40-200000-Oodles1 {100003-3-30-200000-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,624 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,634 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,636 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,637 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,637 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,637 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,638 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,638 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,639 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,639 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,639 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,640 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,640 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,641 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,641 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,641 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,642 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,642 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,643 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,643 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,643 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,644 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,644 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,645 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,645 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,645 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,646 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,646 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,647 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,647 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,647 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,648 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,648 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,649 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,649 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,649 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,650 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,650 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,651 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,651 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,654 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,655 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,657 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (124), time spent (2657), score (-3hard/-4036soft),     best score (-3hard/-3592soft), accepted/selected move count (1/14), picked move (100000-0-0-200000-Oodles1 {100003-3-30-200000-Oodles1} <-> 100002-2-20-200002-Oodles1 {200002-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,659 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,660 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,662 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,663 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,665 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,665 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,666 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (125), time spent (2666), score (-3hard/-4036soft),     best score (-3hard/-3592soft), accepted/selected move count (1/2), picked move (100001-1-10-200001-Oodles1 {100004-4-40-200001-Oodles1} <-> 100002-2-20-200000-Oodles1 {100003-3-30-200000-Oodles1}).
+[TaskPlanning] 2017-07-30 13:07:49,666 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,668 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,671 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,673 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:07:49,675 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was FIRING_ALL_RULES is now HALTING
+[TaskPlanning] 2017-07-30 13:07:49,676 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was HALTING is now INACTIVE
+[TaskPlanning] 2017-07-30 13:07:49,678 DEBUG [main] DefaultAgenda.setCurrentState(1397) | State was INACTIVE is now FIRING_ALL_RULES
+[TaskPlanning] 2017-07-30 13:08:37,999 INFO [main] ServiceDiscovery.discoverFactories(54) | Discovered kie.conf url=jar:file:/C:/Users/Sachin%20Verma/.m2/repository/org/optaplanner/optaplanner-core/7.0.0.Final/optaplanner-core-7.0.0.Final.jar!/META-INF/kie.conf 
+[TaskPlanning] 2017-07-30 13:08:38,109 INFO [main] ServiceDiscovery.processKieAssemblers(114) | Adding Assembler org.optaplanner.core.impl.solver.kie.KieSolverAssemblerService
+
+[TaskPlanning] 2017-07-30 13:08:39,653 INFO [main] KieRepositoryImpl.addKieModule(119) | KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+[TaskPlanning] 2017-07-30 13:08:40,199 INFO [main] TaskPlanningSolver.printUnsolvedSolution(48) | -------Printing problem dataset:-------
+[TaskPlanning] 2017-07-30 13:08:40,200 INFO [main] TaskPlanningSolver.printUnsolvedSolution(49) | -------Locations:-------
+[TaskPlanning] 2017-07-30 13:08:40,204 INFO [main] TaskPlanningSolver.lambda$1(50) | Oodles1-1100.0-2200.0
+[TaskPlanning] 2017-07-30 13:08:40,206 INFO [main] TaskPlanningSolver.lambda$1(50) | Oodles2-2200.0-2400.0
+[TaskPlanning] 2017-07-30 13:08:40,206 INFO [main] TaskPlanningSolver.lambda$1(50) | Oodles3-1300.0-2600.0
+[TaskPlanning] 2017-07-30 13:08:40,208 INFO [main] TaskPlanningSolver.lambda$1(50) | Oodles4-1500.0-2200.0
+[TaskPlanning] 2017-07-30 13:08:40,209 INFO [main] TaskPlanningSolver.lambda$1(50) | Oodles5-1500.0-2200.0
+[TaskPlanning] 2017-07-30 13:08:40,209 INFO [main] TaskPlanningSolver.lambda$1(50) | Oodles6-1600.0-4200.0
+[TaskPlanning] 2017-07-30 13:08:40,210 INFO [main] TaskPlanningSolver.printUnsolvedSolution(51) | -------Citizens:-------
+[TaskPlanning] 2017-07-30 13:08:40,214 INFO [main] TaskPlanningSolver.lambda$2(52) | Sachin Verma
+[TaskPlanning] 2017-07-30 13:08:40,215 INFO [main] TaskPlanningSolver.lambda$2(52) | Ulrik
+[TaskPlanning] 2017-07-30 13:08:40,215 INFO [main] TaskPlanningSolver.lambda$2(52) | Arvind
+[TaskPlanning] 2017-07-30 13:08:40,216 INFO [main] TaskPlanningSolver.lambda$2(52) | Mohit
+[TaskPlanning] 2017-07-30 13:08:40,220 INFO [main] TaskPlanningSolver.lambda$2(52) | Rijul
+[TaskPlanning] 2017-07-30 13:08:40,221 INFO [main] TaskPlanningSolver.lambda$2(52) | Kunal
+[TaskPlanning] 2017-07-30 13:08:40,222 INFO [main] TaskPlanningSolver.printUnsolvedSolution(53) | -------vehicels:-------
+[TaskPlanning] 2017-07-30 13:08:40,225 INFO [main] TaskPlanningSolver.lambda$3(54) | 200000-Oodles1
+[TaskPlanning] 2017-07-30 13:08:40,226 INFO [main] TaskPlanningSolver.lambda$3(54) | 200001-Oodles1
+[TaskPlanning] 2017-07-30 13:08:40,227 INFO [main] TaskPlanningSolver.lambda$3(54) | 200002-Oodles1
+[TaskPlanning] 2017-07-30 13:08:40,227 INFO [main] TaskPlanningSolver.printUnsolvedSolution(55) | -------Tasks:-------
+[TaskPlanning] 2017-07-30 13:08:40,231 INFO [main] TaskPlanningSolver.lambda$4(56) | 100000-0-0-null
+[TaskPlanning] 2017-07-30 13:08:40,232 INFO [main] TaskPlanningSolver.lambda$4(56) | 100001-1-10-null
+[TaskPlanning] 2017-07-30 13:08:40,232 INFO [main] TaskPlanningSolver.lambda$4(56) | 100002-2-20-null
+[TaskPlanning] 2017-07-30 13:08:40,233 INFO [main] TaskPlanningSolver.lambda$4(56) | 100003-3-30-null
+[TaskPlanning] 2017-07-30 13:08:40,233 INFO [main] TaskPlanningSolver.lambda$4(56) | 100004-4-40-null
+[TaskPlanning] 2017-07-30 13:08:40,234 INFO [main] TaskPlanningSolver.lambda$4(56) | 100005-5-50-null
+[TaskPlanning] 2017-07-30 13:08:40,235 INFO [main] TaskPlanningSolver.printUnsolvedSolution(57) | -------Printing problem dataset completed-------
+[TaskPlanning] 2017-07-30 13:08:40,526 INFO [main] DefaultSolver.solvingStarted(185) | Solving started: time spent (289), best score (-6init/0hard/0soft), environment mode (REPRODUCIBLE), random (JDK with seed 0).
+[TaskPlanning] 2017-07-30 13:08:40,804 INFO [main] DefaultConstructionHeuristicPhase.phaseEnded(159) | Construction Heuristic phase (0) ended: time spent (567), best score (-3hard/-4036soft), score calculation speed (122/sec), step total (6).

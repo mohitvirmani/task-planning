@@ -1,0 +1,21 @@
+package com.kairos.planning.rules;
+    dialect "java"
+import org.optaplanner.core.api.score.buildin.hardsoft.HardSoftScoreHolder;   
+import com.kairos.planning.domain.*; 
+global HardSoftScoreHolder scoreHolder;
+
+rule "oneVehiclePerTask"
+    when
+        Task($leftId : id, $vehicle: vehicle, vehicle != null)
+        Task(vehicle == $vehicle, id > $leftId)
+    then
+        scoreHolder.addHardConstraintMatch(kcontext, -1);
+end
+
+
+rule "distanceToPreviousTaskLocation"
+    when
+        $task : Task(previousTaskOrVehicle != null, $distanceFromPreviousTaskOrVehicle : distanceFromPreviousTaskOrVehicle)
+    then
+        scoreHolder.addSoftConstraintMatch(kcontext, (int)- $distanceFromPreviousTaskOrVehicle);
+end
