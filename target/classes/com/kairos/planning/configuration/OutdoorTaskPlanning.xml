@@ -4,7 +4,7 @@
   <solutionClass>com.kairos.planning.solution.TaskPlanningSolution</solutionClass>
   <entityClass>com.kairos.planning.domain.TaskOrVehicle</entityClass>
   <entityClass>com.kairos.planning.domain.Task</entityClass>
-    <!-- <entityClass>com.kairos.planning.domain.Employee</entityClass> -->
+  <!-- <entityClass>com.kairos.planning.domain.Employee</entityClass> -->
   
 
   <scoreDirectorFactory>
@@ -14,4 +14,7 @@
   <!--<termination>-->
     <!--<minutesSpentLimit>5</minutesSpentLimit>-->
   <!--</termination>-->
+   <termination>
+    <secondsSpentLimit>10</secondsSpentLimit>
+</termination>
 </solver>

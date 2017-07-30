@@ -28,7 +28,8 @@ public class TaskPlanningSolver {
 		log.info("-------Printing Solution:-------");
 		List<Task> tasks= solution.getTaskList();
 		log.info("-------Tasks:-------");
-		tasks.forEach(task->log.info(task.toString()));
+		log.info(toDisplayString(solution));
+		//tasks.forEach(task->log.info(task.toString()));
 		log.info("-------Printing Solution Finished:-------");
 		
 	}
@@ -37,7 +38,8 @@ public class TaskPlanningSolver {
 		TaskPlanningSolution unsolvedSolution=getUnsolvedSolution();
 		printUnsolvedSolution(unsolvedSolution);
 		TaskPlanningSolution solution = solver.solve(unsolvedSolution);
-		return solution;
+		return solver.getBestSolution();
+		//return solution;
 	}
 
 	private void printUnsolvedSolution(TaskPlanningSolution unsolvedSolution) {
@@ -57,14 +59,16 @@ public class TaskPlanningSolver {
 		log.info("-------Printing problem dataset completed-------");
 	}
 	private TaskPlanningSolution getUnsolvedSolution() {
-		return new TaskPlanningGenerator().loadUnsolvedSolution();
+		//return new TaskPlanningGenerator().loadUnsolvedSolution();
+		
+		return new TaskPlanningGenerator().loadUnsolvedSolutionFromXML();
 	}
 	public String toDisplayString(TaskPlanningSolution solution) {
         StringBuilder displayString = new StringBuilder();
         for (Task task : solution.getTaskList()) {
         	Vehicle  vehicle= task.getVehicle();
-            displayString.append("  ").append(task.getLabel()).append(" -> ")
-                    .append(vehicle == null ? null : vehicle.getLabel()).append("\n");
+            displayString.append("  ").append(task).append(" -> ")
+                    .append(vehicle == null ? null : vehicle).append("\n");
         }
         return displayString.toString();
     }

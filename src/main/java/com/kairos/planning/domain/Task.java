@@ -5,7 +5,10 @@ import org.optaplanner.core.api.domain.variable.AnchorShadowVariable;
 import org.optaplanner.core.api.domain.variable.PlanningVariable;
 import org.optaplanner.core.api.domain.variable.PlanningVariableGraphType;
 
+import com.thoughtworks.xstream.annotations.XStreamAlias;
+
 @PlanningEntity
+@XStreamAlias("Task")
 public class Task  extends TaskOrVehicle{
 
 	private TaskType taskType;
@@ -15,6 +18,35 @@ public class Task  extends TaskOrVehicle{
     private TaskOrVehicle previousTaskOrVehicle;
     @AnchorShadowVariable(sourceVariableName = "previousTaskOrVehicle")
     private Vehicle vehicle;
+    @PlanningVariable(valueRangeProviderRefs = {"employeeRange"})
+    private Employee employee;
+    private boolean locked;
+    private int indexInTaskType;
+    private int readyTime;
+	public int getReadyTime() {
+		return readyTime;
+	}
+	public void setReadyTime(int readyTime) {
+		this.readyTime = readyTime;
+	}
+	public int getIndexInTaskType() {
+		return indexInTaskType;
+	}
+	public void setIndexInTaskType(int indexInTaskType) {
+		this.indexInTaskType = indexInTaskType;
+	}
+	public boolean isLocked() {
+		return locked;
+	}
+	public void setLocked(boolean locked) {
+		this.locked = locked;
+	}
+	public Employee getEmployee() {
+		return employee;
+	}
+	public void setEmployee(Employee employee) {
+		this.employee = employee;
+	}
 	@Override
 	public Vehicle getVehicle() {
 		return vehicle;
@@ -41,11 +73,11 @@ public class Task  extends TaskOrVehicle{
 		this.vehicle = vehicle;
 	}
 	private Citizen citizen;
-	private Long priority;
-	public Long getPriority() {
+	private String priority;
+	public String getPriority() {
 		return priority;
 	}
-	public void setPriority(Long priority) {
+	public void setPriority(String priority) {
 		this.priority = priority;
 	}
 	private Long id;
@@ -88,6 +120,6 @@ public class Task  extends TaskOrVehicle{
 		return previousTaskOrVehicle.getLocation().getDistanceFrom(this.getLocation());
 	}
 	public String toString(){
-		return id+"-"+priority+"-"+duration+"-"+vehicle;
+		return id+"-"+priority+"-"+duration;
 	}
 }

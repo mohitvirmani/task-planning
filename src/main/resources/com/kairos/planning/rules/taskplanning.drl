@@ -6,8 +6,7 @@ global HardSoftScoreHolder scoreHolder;
 
 rule "oneVehiclePerTask"
     when
-        Task($leftId : id, $vehicle: vehicle, vehicle != null)
-        Task(vehicle == $vehicle, id > $leftId)
+        Task(vehicle==null)
     then
         scoreHolder.addHardConstraintMatch(kcontext, -1);
 end

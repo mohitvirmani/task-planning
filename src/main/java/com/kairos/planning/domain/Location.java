@@ -1,6 +1,17 @@
 package com.kairos.planning.domain;
 
+import com.thoughtworks.xstream.annotations.XStreamAlias;
+
+@XStreamAlias("Location")
 public class Location {
+	private Long id;
+	public Long getId() {
+		return id;
+	}
+
+	public void setId(Long id) {
+		this.id = id;
+	}
 	protected String name;
     protected double latitude;
     protected double longitude;

@@ -1,5 +1,8 @@
 package com.kairos.planning.domain;
 
+import com.thoughtworks.xstream.annotations.XStreamAlias;
+
+@XStreamAlias("Vehicle")
 public class Vehicle extends TaskOrVehicle {
 	private Long id;
 	private String type;
@@ -41,6 +44,6 @@ public class Vehicle extends TaskOrVehicle {
 	}
 
 	public String toString() {
-		return id + "-" + location.getName();
+		return id + "-" + type;
 	}
 }

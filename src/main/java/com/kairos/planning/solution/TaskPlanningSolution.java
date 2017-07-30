@@ -17,10 +17,38 @@ import com.kairos.planning.domain.Skill;
 import com.kairos.planning.domain.Task;
 import com.kairos.planning.domain.TaskType;
 import com.kairos.planning.domain.Vehicle;
+import com.thoughtworks.xstream.annotations.XStreamAlias;
 import com.thoughtworks.xstream.annotations.XStreamConverter;
 
 @PlanningSolution
+@XStreamAlias("TaskPlanningSolution")
 public class TaskPlanningSolution {
+	private Long id;
+	public Long getId() {
+		return id;
+	}
+
+	public void setId(Long id) {
+		this.id = id;
+	}
+
+	@ProblemFactCollectionProperty
+	@ValueRangeProvider(id = "vehicleRange")
+	private List<Vehicle> vehicleList;
+	@ProblemFactCollectionProperty
+	private List<Citizen> citizenList;
+	@PlanningEntityCollectionProperty
+	@ValueRangeProvider(id = "taskRange")
+	private List<Task> taskList;
+	//@ProblemFactCollectionProperty
+	private List<TaskType> taskTypeList;
+	@ProblemFactCollectionProperty
+	@ValueRangeProvider(id = "employeeRange")
+	private List<Employee> employeeList;
+	@ProblemFactCollectionProperty
+	private List<Skill> skillList;
+	@ProblemFactCollectionProperty
+	private List<Location> locationList;
 	public List<Vehicle> getVehicleList() {
 		return vehicleList;
 	}
@@ -76,24 +104,6 @@ public class TaskPlanningSolution {
 	public void setScore(HardSoftScore score) {
 		this.score = score;
 	}
-
-	@ProblemFactCollectionProperty
-	@ValueRangeProvider(id = "vehicleRange")
-	private List<Vehicle> vehicleList;
-	@ProblemFactCollectionProperty
-	private List<Citizen> citizenList;
-	@PlanningEntityCollectionProperty
-	@ValueRangeProvider(id = "taskRange")
-	private List<Task> taskList;
-	//@ProblemFactCollectionProperty
-	private List<TaskType> taskTypeList;
-	//@ProblemFactCollectionProperty
-	private List<Employee> employeeList;
-	//@ProblemFactCollectionProperty
-	private List<Skill> skillList;
-	@ProblemFactCollectionProperty
-	private List<Location> locationList;
-	
 	public List<Location> getLocationList() {
 		return locationList;
 	}
