@@ -1,10 +1,59 @@
-[TaskPlanning] 2017-07-30 13:37:20,431 INFO [main] TaskPlanningSolver.printUnsolvedSolution(55) | -------Tasks:-------
-[TaskPlanning] 2017-07-30 13:37:20,433 INFO [main] TaskPlanningSolver.lambda$4(56) | 100000-0-0-null
-[TaskPlanning] 2017-07-30 13:37:20,433 INFO [main] TaskPlanningSolver.lambda$4(56) | 100001-1-10-null
-[TaskPlanning] 2017-07-30 13:37:20,434 INFO [main] TaskPlanningSolver.lambda$4(56) | 100002-2-20-null
-[TaskPlanning] 2017-07-30 13:37:20,434 INFO [main] TaskPlanningSolver.lambda$4(56) | 100003-3-30-null
-[TaskPlanning] 2017-07-30 13:37:20,435 INFO [main] TaskPlanningSolver.lambda$4(56) | 100004-4-40-null
-[TaskPlanning] 2017-07-30 13:37:20,435 INFO [main] TaskPlanningSolver.lambda$4(56) | 100005-5-50-null
-[TaskPlanning] 2017-07-30 13:37:20,436 INFO [main] TaskPlanningSolver.printUnsolvedSolution(57) | -------Printing problem dataset completed-------
-[TaskPlanning] 2017-07-30 13:37:20,719 INFO [main] DefaultSolver.solvingStarted(185) | Solving started: time spent (282), best score (-6init/0hard/0soft), environment mode (REPRODUCIBLE), random (JDK with seed 0).
-[TaskPlanning] 2017-07-30 13:37:20,954 INFO [main] DefaultConstructionHeuristicPhase.phaseEnded(159) | Construction Heuristic phase (0) ended: time spent (517), best score (-3hard/-168soft), score calculation speed (145/sec), step total (6).
+[TaskPlanning] 2017-07-30 19:25:57,676 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (4204), time spent (9964), score (0hard/-720soft),     best score (0hard/-718soft), accepted/selected move count (1/28), picked move (5-MAJOR-79-[Skill [name=Business Storytelling]] {2-MINOR-33-[Skill [name=Business Storytelling], Skill [name=Team Building]] -> 10-MINOR-79-[Skill [name=Business Storytelling]]}).
+[TaskPlanning] 2017-07-30 19:25:57,679 DEBUG [main] DefaultLocalSearchPhase.stepEnded(132) |     LS step (4205), time spent (9967), score (0hard/-720soft),     best score (0hard/-718soft), accepted/selected move count (1/8), picked move (4-MAJOR-71-[Skill [name=Team Building]] {4-Elsa-[Skill [name=Problem Solving], Skill [name=Team Building]], 44-MINOR-56-[Skill [name=Problem Solving]]} <-> 25-MAJOR-67-[Skill [name=Team Building]] {2-Chad-[Skill [name=Team Building], Skill [name=Business Storytelling]], 41-CRITICAL-48-[Skill [name=Business Storytelling]]}).
+[TaskPlanning] 2017-07-30 19:25:57,718 INFO [main] DefaultLocalSearchPhase.phaseEnded(150) | Local Search phase (1) ended: time spent (10006), best score (0hard/-718soft), score calculation speed (3078/sec), step total (4206).
+[TaskPlanning] 2017-07-30 19:25:57,719 INFO [main] DefaultSolver.outerSolvingEnded(202) | Solving ended: time spent (10006), best score (0hard/-718soft), score calculation speed (2918/sec), phase total (2), environment mode (REPRODUCIBLE).
+[TaskPlanning] 2017-07-30 19:25:57,719 INFO [main] TaskPlanningSolver.printSolvedSolution(29) | -------Printing Solution:-------
+[TaskPlanning] 2017-07-30 19:25:57,719 INFO [main] TaskPlanningSolver.printSolvedSolution(31) | -------Tasks:-------
+[TaskPlanning] 2017-07-30 19:25:57,720 INFO [main] TaskPlanningSolver.printSolvedSolution(32) | 
+  0-MAJOR-33-[Skill [name=Business Storytelling], Skill [name=Team Building]] -> 0-Car -> 2-Chad-[Skill [name=Team Building], Skill [name=Business Storytelling]]
+  1-CRITICAL-53-[Skill [name=Business Storytelling]] -> 0-Car -> 2-Chad-[Skill [name=Team Building], Skill [name=Business Storytelling]]
+  2-MINOR-33-[Skill [name=Business Storytelling], Skill [name=Team Building]] -> 0-Car -> 2-Chad-[Skill [name=Team Building], Skill [name=Business Storytelling]]
+  3-MAJOR-67-[Skill [name=Team Building]] -> 0-Car -> 4-Elsa-[Skill [name=Problem Solving], Skill [name=Team Building]]
+  4-MAJOR-71-[Skill [name=Team Building]] -> 0-Car -> 2-Chad-[Skill [name=Team Building], Skill [name=Business Storytelling]]
+  5-MAJOR-79-[Skill [name=Business Storytelling]] -> 0-Car -> 2-Chad-[Skill [name=Team Building], Skill [name=Business Storytelling]]
+  6-CRITICAL-56-[Skill [name=Problem Solving]] -> 0-Car -> 1-Beth-[Skill [name=Risk Management], Skill [name=Creative Thinking], Skill [name=Problem Solving]]
+  7-MINOR-79-[Skill [name=Business Storytelling]] -> 1-Bike -> 2-Chad-[Skill [name=Team Building], Skill [name=Business Storytelling]]
+  8-MAJOR-67-[Skill [name=Team Building]] -> 0-Car -> 0-Amy-[Skill [name=Problem Solving], Skill [name=Team Building], Skill [name=Business Storytelling]]
+  9-CRITICAL-56-[Skill [name=Problem Solving]] -> 0-Car -> 1-Beth-[Skill [name=Risk Management], Skill [name=Creative Thinking], Skill [name=Problem Solving]]
+  10-MINOR-79-[Skill [name=Business Storytelling]] -> 1-Bike -> 2-Chad-[Skill [name=Team Building], Skill [name=Business Storytelling]]
+  11-MAJOR-46-[Skill [name=Team Building]] -> 0-Car -> 4-Elsa-[Skill [name=Problem Solving], Skill [name=Team Building]]
+  12-MINOR-46-[Skill [name=Team Building]] -> 0-Car -> 0-Amy-[Skill [name=Problem Solving], Skill [name=Team Building], Skill [name=Business Storytelling]]
+  13-MINOR-71-[Skill [name=Team Building]] -> 0-Car -> 4-Elsa-[Skill [name=Problem Solving], Skill [name=Team Building]]
+  14-CRITICAL-79-[Skill [name=Business Storytelling]] -> 0-Car -> 0-Amy-[Skill [name=Problem Solving], Skill [name=Team Building], Skill [name=Business Storytelling]]
+  15-MINOR-71-[Skill [name=Team Building]] -> 0-Car -> 4-Elsa-[Skill [name=Problem Solving], Skill [name=Team Building]]
+  16-CRITICAL-71-[Skill [name=Team Building]] -> 0-Car -> 4-Elsa-[Skill [name=Problem Solving], Skill [name=Team Building]]
+  17-MAJOR-56-[Skill [name=Problem Solving]] -> 0-Car -> 1-Beth-[Skill [name=Risk Management], Skill [name=Creative Thinking], Skill [name=Problem Solving]]
+  18-CRITICAL-79-[Skill [name=Business Storytelling]] -> 0-Car -> 2-Chad-[Skill [name=Team Building], Skill [name=Business Storytelling]]
+  19-CRITICAL-33-[Skill [name=Business Storytelling], Skill [name=Team Building]] -> 0-Car -> 2-Chad-[Skill [name=Team Building], Skill [name=Business Storytelling]]
+  20-CRITICAL-33-[Skill [name=Business Storytelling], Skill [name=Team Building]] -> 0-Car -> 2-Chad-[Skill [name=Team Building], Skill [name=Business Storytelling]]
+  21-CRITICAL-46-[Skill [name=Team Building]] -> 0-Car -> 4-Elsa-[Skill [name=Problem Solving], Skill [name=Team Building]]
+  22-MAJOR-83-[Skill [name=Problem Solving]] -> 0-Car -> 1-Beth-[Skill [name=Risk Management], Skill [name=Creative Thinking], Skill [name=Problem Solving]]
+  23-MAJOR-83-[Skill [name=Problem Solving]] -> 0-Car -> 1-Beth-[Skill [name=Risk Management], Skill [name=Creative Thinking], Skill [name=Problem Solving]]
+  24-MINOR-46-[Skill [name=Team Building]] -> 0-Car -> 4-Elsa-[Skill [name=Problem Solving], Skill [name=Team Building]]
+  25-MAJOR-67-[Skill [name=Team Building]] -> 0-Car -> 4-Elsa-[Skill [name=Problem Solving], Skill [name=Team Building]]
+  26-CRITICAL-46-[Skill [name=Team Building]] -> 0-Car -> 4-Elsa-[Skill [name=Problem Solving], Skill [name=Team Building]]
+  27-MINOR-48-[Skill [name=Business Storytelling]] -> 0-Car -> 0-Amy-[Skill [name=Problem Solving], Skill [name=Team Building], Skill [name=Business Storytelling]]
+  28-CRITICAL-83-[Skill [name=Problem Solving]] -> 0-Car -> 1-Beth-[Skill [name=Risk Management], Skill [name=Creative Thinking], Skill [name=Problem Solving]]
+  29-CRITICAL-83-[Skill [name=Problem Solving]] -> 0-Car -> 4-Elsa-[Skill [name=Problem Solving], Skill [name=Team Building]]
+  30-CRITICAL-83-[Skill [name=Problem Solving]] -> 0-Car -> 1-Beth-[Skill [name=Risk Management], Skill [name=Creative Thinking], Skill [name=Problem Solving]]
+  31-MINOR-67-[Skill [name=Team Building]] -> 0-Car -> 4-Elsa-[Skill [name=Problem Solving], Skill [name=Team Building]]
+  32-MINOR-33-[Skill [name=Business Storytelling], Skill [name=Team Building]] -> 0-Car -> 0-Amy-[Skill [name=Problem Solving], Skill [name=Team Building], Skill [name=Business Storytelling]]
+  33-CRITICAL-71-[Skill [name=Team Building]] -> 1-Bike -> 4-Elsa-[Skill [name=Problem Solving], Skill [name=Team Building]]
+  34-MINOR-79-[Skill [name=Business Storytelling]] -> 0-Car -> 0-Amy-[Skill [name=Problem Solving], Skill [name=Team Building], Skill [name=Business Storytelling]]
+  35-CRITICAL-79-[Skill [name=Business Storytelling]] -> 0-Car -> 0-Amy-[Skill [name=Problem Solving], Skill [name=Team Building], Skill [name=Business Storytelling]]
+  36-MINOR-83-[Skill [name=Problem Solving]] -> 0-Car -> 1-Beth-[Skill [name=Risk Management], Skill [name=Creative Thinking], Skill [name=Problem Solving]]
+  37-MINOR-33-[Skill [name=Business Storytelling], Skill [name=Team Building]] -> 0-Car -> 0-Amy-[Skill [name=Problem Solving], Skill [name=Team Building], Skill [name=Business Storytelling]]
+  38-MINOR-79-[Skill [name=Business Storytelling]] -> 0-Car -> 2-Chad-[Skill [name=Team Building], Skill [name=Business Storytelling]]
+  39-MINOR-48-[Skill [name=Business Storytelling]] -> 0-Car -> 0-Amy-[Skill [name=Problem Solving], Skill [name=Team Building], Skill [name=Business Storytelling]]
+  40-MINOR-56-[Skill [name=Problem Solving]] -> 1-Bike -> 1-Beth-[Skill [name=Risk Management], Skill [name=Creative Thinking], Skill [name=Problem Solving]]
+  41-CRITICAL-48-[Skill [name=Business Storytelling]] -> 0-Car -> 2-Chad-[Skill [name=Team Building], Skill [name=Business Storytelling]]
+  42-MAJOR-56-[Skill [name=Problem Solving]] -> 0-Car -> 1-Beth-[Skill [name=Risk Management], Skill [name=Creative Thinking], Skill [name=Problem Solving]]
+  43-CRITICAL-79-[Skill [name=Business Storytelling]] -> 0-Car -> 0-Amy-[Skill [name=Problem Solving], Skill [name=Team Building], Skill [name=Business Storytelling]]
+  44-MINOR-56-[Skill [name=Problem Solving]] -> 0-Car -> 1-Beth-[Skill [name=Risk Management], Skill [name=Creative Thinking], Skill [name=Problem Solving]]
+  45-MINOR-83-[Skill [name=Problem Solving]] -> 0-Car -> 0-Amy-[Skill [name=Problem Solving], Skill [name=Team Building], Skill [name=Business Storytelling]]
+  46-CRITICAL-53-[Skill [name=Business Storytelling]] -> 0-Car -> 2-Chad-[Skill [name=Team Building], Skill [name=Business Storytelling]]
+  47-MAJOR-79-[Skill [name=Business Storytelling]] -> 0-Car -> 0-Amy-[Skill [name=Problem Solving], Skill [name=Team Building], Skill [name=Business Storytelling]]
+  48-MINOR-67-[Skill [name=Team Building]] -> 0-Car -> 0-Amy-[Skill [name=Problem Solving], Skill [name=Team Building], Skill [name=Business Storytelling]]
+  49-MINOR-56-[Skill [name=Problem Solving]] -> 0-Car -> 1-Beth-[Skill [name=Risk Management], Skill [name=Creative Thinking], Skill [name=Problem Solving]]
+
+[TaskPlanning] 2017-07-30 19:25:57,720 INFO [main] TaskPlanningSolver.printSolvedSolution(34) | -------Printing Solution Finished:-------

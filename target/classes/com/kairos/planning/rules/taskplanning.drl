@@ -6,16 +6,48 @@ global HardSoftScoreHolder scoreHolder;
 
 rule "oneVehiclePerTask"
     when
-        Task($leftId : id, $vehicle: vehicle, vehicle != null)
-        Task(vehicle == $vehicle, id > $leftId)
+        Task(vehicle==null)
     then
         scoreHolder.addHardConstraintMatch(kcontext, -1);
 end
-
+rule "Skill requirements"
+    when
+        Task(employee != null, missingSkillCount > 0, $missingSkillCount : missingSkillCount)
+    then
+        scoreHolder.addHardConstraintMatch(kcontext,  - $missingSkillCount);
+end
 
 rule "distanceToPreviousTaskLocation"
     when
         $task : Task(previousTaskOrVehicle != null, $distanceFromPreviousTaskOrVehicle : distanceFromPreviousTaskOrVehicle)
     then
         scoreHolder.addSoftConstraintMatch(kcontext, (int)- $distanceFromPreviousTaskOrVehicle);
+end
+
+rule "employeeWorkingHours"
+    when
+    Task ($employee : employee)
+    accumulate(
+            $task : Task(
+                employee == $employee,
+                $duration : duration);
+            $totalEmployeeTime : count($duration);
+            $totalEmployeeTime > 0 
+        )
+    then
+        scoreHolder.addSoftConstraintMatch(kcontext, (int)- $totalEmployeeTime);
+end
+
+rule "vehicleWorkingHours"
+    when
+    Task ($vehicle : vehicle)
+    accumulate(
+            $task : Task(
+                vehicle == $vehicle,
+                $duration : duration);
+            $totalVehicleTime : count($duration);
+            $totalVehicleTime > 0 
+        )
+    then
+        scoreHolder.addSoftConstraintMatch(kcontext, (int)- $totalVehicleTime);
 end

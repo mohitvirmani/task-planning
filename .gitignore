@@ -3,3 +3,6 @@
 *.class
 *.log
 *.1
+example.log
+example.log.1
+target/classes/com/kairos/planning/rules/taskplanning.drl
