@@ -9,6 +9,16 @@ import org.optaplanner.core.api.domain.variable.PlanningVariableGraphType;
 public class Task  extends TaskOrVehicle{
 
 	private TaskType taskType;
+	// Planning variables: changes during planning, between score calculations.
+    @PlanningVariable(valueRangeProviderRefs = {"taskRange","vehicleRange"},
+            graphType = PlanningVariableGraphType.CHAINED)
+    private TaskOrVehicle previousTaskOrVehicle;
+    @AnchorShadowVariable(sourceVariableName = "previousTaskOrVehicle")
+    private Vehicle vehicle;
+	@Override
+	public Vehicle getVehicle() {
+		return vehicle;
+	}
 	public TaskType getTaskType() {
 		return taskType;
 	}
@@ -46,17 +56,7 @@ public class Task  extends TaskOrVehicle{
 	public void setId(Long id) {
 		this.id = id;
 	}
-	// Planning variables: changes during planning, between score calculations.
-    @PlanningVariable(valueRangeProviderRefs = {"vehicleRange", "taskRange"},
-            graphType = PlanningVariableGraphType.CHAINED)
-    private TaskOrVehicle previousTaskOrVehicle;
-    @AnchorShadowVariable(sourceVariableName = "previousTaskOrVehicle")
-    private Vehicle vehicle;
-	@Override
-	public Vehicle getVehicle() {
-		// TODO Auto-generated method stub
-		return vehicle;
-	}
+	
     public String getLabel(){
     	return id+"";
     }

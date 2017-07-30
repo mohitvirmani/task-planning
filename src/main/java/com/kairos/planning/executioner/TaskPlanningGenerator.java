@@ -49,12 +49,12 @@ public class TaskPlanningGenerator {
 
 	private List<Location> generateLocationList() {
 		List<Location> locations= new ArrayList<Location>();
-		locations.add(new Location("Oodles1",1100,2200));
-		locations.add(new Location("Oodles2",2200,2400));
-		locations.add(new Location("Oodles3",1300,2600));
-		locations.add(new Location("Oodles4",1500,2200));
-		locations.add(new Location("Oodles5",1500,2200));
-		locations.add(new Location("Oodles6",1600,4200));
+		locations.add(new Location("Oodles1",11.21300,11.43344));
+		locations.add(new Location("Oodles2",21.34300,21.54334));
+		locations.add(new Location("Oodles3",31.45600,31.32434));
+		locations.add(new Location("Oodles4",41.23234,41.45634));
+		locations.add(new Location("Oodles5",51.32300,51.55434));
+		locations.add(new Location("Oodles6",61.23234,61.54534));
 		return locations;
 	}
 

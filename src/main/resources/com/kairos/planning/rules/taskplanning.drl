@@ -12,7 +12,6 @@ rule "oneVehiclePerTask"
         scoreHolder.addHardConstraintMatch(kcontext, -1);
 end
 
-
 rule "distanceToPreviousTaskLocation"
     when
         $task : Task(previousTaskOrVehicle != null, $distanceFromPreviousTaskOrVehicle : distanceFromPreviousTaskOrVehicle)
