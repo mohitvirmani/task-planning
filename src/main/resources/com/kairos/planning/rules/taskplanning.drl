@@ -33,7 +33,7 @@ rule "employeeWorkingHours"
             $task : Task(
                 employee == $employee,
                 $duration : duration);
-            $totalWorkTime : count($duration);
+            $totalWorkTime : sum($task.getDuration());
             $totalWorkTime > $availableMinutes
         )
     then
@@ -53,3 +53,13 @@ rule "vehicleWorkingHours"
     then
         scoreHolder.addSoftConstraintMatch(kcontext, (int)- $totalVehicleTime);
 end
+
+
+/*rule "tasksChain"
+    when
+    $nextTask: Task (employee!=null,$employee : employee,vehicle!=null, $vehicle: vehicle)
+    not Task(nextTask!=null,nextTask==$nextTask,employee==$employee,vehicle==$vehicle)
+    then
+        scoreHolder.addHardConstraintMatch(kcontext,- 10);
+end
+*/

@@ -10,6 +10,12 @@ public abstract class TaskOrVehicle {
     @InverseRelationShadowVariable(sourceVariableName = "previousTaskOrVehicle")
     protected Task nextTask;
     
+  //not for any calc
+  	public Task getNextTask(){
+  		return nextTask;
+  	}
+
+    
     public abstract Vehicle getVehicle();
     
     public abstract Location getLocation();

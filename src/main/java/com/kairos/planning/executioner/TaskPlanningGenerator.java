@@ -39,7 +39,7 @@ public class TaskPlanningGenerator {
 		xstream.setMode(XStream.ID_REFERENCES);
 		TaskPlanningSolution unresolvedSolution ;
 		try{
-			unresolvedSolution = (TaskPlanningSolution)xstream.fromXML(this.getClass().getClassLoader().getResourceAsStream("data/problemset.xml"));
+			unresolvedSolution = (TaskPlanningSolution)xstream.fromXML(this.getClass().getClassLoader().getResourceAsStream("data/problemset2.xml"));
 		}catch(Exception e){
 			e.printStackTrace();
 			throw e;

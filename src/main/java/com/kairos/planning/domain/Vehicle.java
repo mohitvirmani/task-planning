@@ -1,5 +1,9 @@
 package com.kairos.planning.domain;
 
+import org.optaplanner.core.api.domain.entity.PlanningEntity;
+import org.optaplanner.core.api.domain.variable.CustomShadowVariable;
+import org.optaplanner.core.api.domain.variable.PlanningVariableReference;
+
 import com.thoughtworks.xstream.annotations.XStreamAlias;
 
 @XStreamAlias("Vehicle")
@@ -31,13 +35,12 @@ public class Vehicle extends TaskOrVehicle {
 	public String getLabel() {
 		return id + "";
 	}
-
 	private Location location;
 
 	public void setLocation(Location location) {
 		this.location = location;
 	}
-
+	
 	@Override
 	public Location getLocation() {
 		return location;

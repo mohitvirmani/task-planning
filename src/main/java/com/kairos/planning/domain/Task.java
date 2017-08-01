@@ -1,12 +1,11 @@
 package com.kairos.planning.domain;
 
-import java.util.Comparator;
-
-import org.apache.commons.lang3.builder.CompareToBuilder;
 import org.optaplanner.core.api.domain.entity.PlanningEntity;
 import org.optaplanner.core.api.domain.variable.AnchorShadowVariable;
+import org.optaplanner.core.api.domain.variable.CustomShadowVariable;
 import org.optaplanner.core.api.domain.variable.PlanningVariable;
 import org.optaplanner.core.api.domain.variable.PlanningVariableGraphType;
+import org.optaplanner.core.api.domain.variable.PlanningVariableReference;
 
 import com.thoughtworks.xstream.annotations.XStreamAlias;
 
@@ -20,6 +19,8 @@ public class Task  extends TaskOrVehicle{
             graphType = PlanningVariableGraphType.CHAINED)
     private TaskOrVehicle previousTaskOrVehicle;
     @AnchorShadowVariable(sourceVariableName = "previousTaskOrVehicle")
+    //@CustomShadowVariable(variableListenerClass = LocationVariableUpdaterListener.class,
+     ///       sources = {@PlanningVariableReference(variableName = "previousTaskOrVehicle")})
     private Vehicle vehicle;
     @PlanningVariable(valueRangeProviderRefs = {"employeeRange"})
     private Employee employee;
@@ -120,7 +121,7 @@ public class Task  extends TaskOrVehicle{
 		return previousTaskOrVehicle.getLocation().getDistanceFrom(this.getLocation());
 	}
 	public String toString(){
-		return id+"-"+priority+"-"+getDuration()+"-"+taskType.getRequiredSkillList();
+		return id+"-"+priority+"-"+getDuration()+"-"+location.name+"-"+taskType.getRequiredSkillList();
 	}
 	public int getMissingSkillCount() {
         if (employee == null) {

@@ -41,7 +41,7 @@ public class TaskPlanningSolution {
 	@PlanningEntityCollectionProperty
 	@ValueRangeProvider(id = "taskRange")
 	private List<Task> taskList;
-	//@ProblemFactCollectionProperty
+	@ProblemFactCollectionProperty
 	private List<TaskType> taskTypeList;
 	@ProblemFactCollectionProperty
 	@ValueRangeProvider(id = "employeeRange")

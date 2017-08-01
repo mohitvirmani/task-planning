@@ -26,27 +26,27 @@
     <Availability id="115">
       <id>0</id>
       <startTimeString>08/02/2017 11:00:00</startTimeString>
-	  <endTimeString>08/02/2017 16:00:00</endTimeString>
+	  <endTimeString>08/02/2017 20:00:00</endTimeString>
     </Availability>
 	<Availability id="116">
       <id>1</id>
       <startTimeString>08/03/2017 11:00:00</startTimeString>
-	  <endTimeString>08/03/2017 16:00:00</endTimeString>
+	  <endTimeString>08/03/2017 20:00:00</endTimeString>
     </Availability>
 	<Availability id="117">
       <id>2</id>
       <startTimeString>08/04/2017 11:00:00</startTimeString>
-	  <endTimeString>08/04/2017 16:00:00</endTimeString>
+	  <endTimeString>08/04/2017 18:00:00</endTimeString>
     </Availability>
 	<Availability id="118">
       <id>3</id>
       <startTimeString>08/05/2017 11:00:00</startTimeString>
-	  <endTimeString>08/05/2017 16:00:00</endTimeString>
+	  <endTimeString>08/05/2017 18:00:00</endTimeString>
     </Availability>
 	<Availability id="119">
       <id>4</id>
       <startTimeString>08/06/2017 11:00:00</startTimeString>
-	  <endTimeString>08/06/2017 16:00:00</endTimeString>
+	  <endTimeString>08/06/2017 18:00:00</endTimeString>
     </Availability>
 	</availabilityList>
   <locationList id="107">
